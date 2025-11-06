@@ -13,6 +13,8 @@
 
 [文档规范整洁这一块](#锐评本文)
 
+[个人主页](#个人主页)
+
 ---
 ## **geek精神**：
 
@@ -63,6 +65,13 @@
 - 使用了链接，吴哥再也不用滑鼠标滚轮了
 - 锐评阶段依旧有条理
 
+## 个人主页
+
+使用贡献图，动态访问计数器，动态波浪分隔符，GitHub活动图，蛇型图
+参考优秀GitHub Profile README：
+https://github.com/zyh3699/zyh3699.git
+https://github.com/thmsgbrt/thmsgbrt.git
+https://github.com/lxfriday/lxfriday.git
 
 
 
