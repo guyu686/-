@@ -1,8 +1,10 @@
 # git学习笔记
 
-[git下载，配置及上传文件](# git下载，配置及上传文件)
+[git下载，配置及上传文件](#git下载，配置及上传文件)
 
-[git指令积累](# git指令积累)
+[git提交问题](#git提交问题)
+
+[git指令积累](#git指令积累)
 
 
 
@@ -28,6 +30,12 @@
 参考视频： https://b23.tv/5F0ld6z
 
 ---
+## git提交问题及优化
+  思考：我认为Git Bash提交比较麻烦————因为是命令行传输指令，这就要求我们准确记忆or查找并输入每个指令，造成了较大的工作量；另外，在使用git bash传输时可能会遇到由于防火墙或代理造成网络不稳定的问题（类似情况见[问题解决记录](https://github.com/guyu686/tasks/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%95.md)的*二阶段问题解决*）
+  
+  优化：
+  1. TortoiseGit的使用：图形化用户界面且专为Windows设计，下载安装使用参考[TortoiseGit](https://b23.tv/MHfv9i8)<!--官网有汉化插件下载和操作都简单-->
+  2. GitHub Desktop的使用：图形化用户界面，使用参考[GitHub Desktop](https://b23.tv/6VdBzyu)<!--目前我还没找到汉化版但操作同样简单-->
 
 
 
@@ -120,4 +128,5 @@
 - git config --global user.name "姓名"：设置全局用户名。
 - git config --global user.email "邮箱"：设置全局邮箱
 - git config --list：查看当前配置
+
 
